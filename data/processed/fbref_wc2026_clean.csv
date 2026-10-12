@@ -1,0 +1,105 @@
+date,round,home,away,home_goals,away_goals,home_pens,away_pens,venue,venue_country
+2026-06-11,Group stage,Mexico,South Africa,2,0,,,Estadio Banorte,Mexico
+2026-06-11,Group stage,South Korea,Czech Republic,2,1,,,Estadio Akron,Mexico
+2026-06-12,Group stage,Canada,Bosnia and Herzegovina,1,1,,,BMO Field,Canada
+2026-06-12,Group stage,United States,Paraguay,4,1,,,SoFi Stadium,United States
+2026-06-13,Group stage,Qatar,Switzerland,1,1,,,Levi's Stadium,United States
+2026-06-13,Group stage,Brazil,Morocco,1,1,,,MetLife Stadium,United States
+2026-06-13,Group stage,Australia,Turkey,2,0,,,BC Place Stadium,Canada
+2026-06-13,Group stage,Haiti,Scotland,0,1,,,Gillette Stadium,United States
+2026-06-14,Group stage,Germany,Curaçao,7,1,,,Reliant Stadium,United States
+2026-06-14,Group stage,Netherlands,Japan,2,2,,,AT&T Stadium,United States
+2026-06-14,Group stage,Ivory Coast,Ecuador,1,0,,,Lincoln Financial Field,United States
+2026-06-14,Group stage,Sweden,Tunisia,5,1,,,Estadio BBVA,Mexico
+2026-06-15,Group stage,Belgium,Egypt,1,1,,,Lumen Field,United States
+2026-06-15,Group stage,Spain,Cape Verde,0,0,,,Mercedes-Benz Stadium,United States
+2026-06-15,Group stage,Saudi Arabia,Uruguay,1,1,,,Hard Rock Stadium,United States
+2026-06-15,Group stage,Iran,New Zealand,2,2,,,SoFi Stadium,United States
+2026-06-16,Group stage,France,Senegal,3,1,,,MetLife Stadium,United States
+2026-06-16,Group stage,Iraq,Norway,1,4,,,Gillette Stadium,United States
+2026-06-16,Group stage,Argentina,Algeria,3,0,,,GEHA Field at Arrowhead Stadium,United States
+2026-06-16,Group stage,Austria,Jordan,3,1,,,Levi's Stadium,United States
+2026-06-17,Group stage,Portugal,DR Congo,1,1,,,Reliant Stadium,United States
+2026-06-17,Group stage,England,Croatia,4,2,,,AT&T Stadium,United States
+2026-06-17,Group stage,Ghana,Panama,1,0,,,BMO Field,Canada
+2026-06-17,Group stage,Uzbekistan,Colombia,1,3,,,Estadio Banorte,Mexico
+2026-06-18,Group stage,Czech Republic,South Africa,1,1,,,Mercedes-Benz Stadium,United States
+2026-06-18,Group stage,Switzerland,Bosnia and Herzegovina,4,1,,,SoFi Stadium,United States
+2026-06-18,Group stage,Canada,Qatar,6,0,,,BC Place Stadium,Canada
+2026-06-18,Group stage,Mexico,South Korea,1,0,,,Estadio Akron,Mexico
+2026-06-19,Group stage,United States,Australia,2,0,,,Lumen Field,United States
+2026-06-19,Group stage,Scotland,Morocco,0,1,,,Gillette Stadium,United States
+2026-06-19,Group stage,Turkey,Paraguay,0,1,,,Levi's Stadium,United States
+2026-06-19,Group stage,Brazil,Haiti,3,0,,,Lincoln Financial Field,United States
+2026-06-20,Group stage,Netherlands,Sweden,5,1,,,Reliant Stadium,United States
+2026-06-20,Group stage,Germany,Ivory Coast,2,1,,,BMO Field,Canada
+2026-06-20,Group stage,Ecuador,Curaçao,0,0,,,GEHA Field at Arrowhead Stadium,United States
+2026-06-20,Group stage,Tunisia,Japan,0,4,,,Estadio BBVA,Mexico
+2026-06-21,Group stage,Spain,Saudi Arabia,4,0,,,Mercedes-Benz Stadium,United States
+2026-06-21,Group stage,Belgium,Iran,0,0,,,SoFi Stadium,United States
+2026-06-21,Group stage,Uruguay,Cape Verde,2,2,,,Hard Rock Stadium,United States
+2026-06-21,Group stage,New Zealand,Egypt,1,3,,,BC Place Stadium,Canada
+2026-06-22,Group stage,Argentina,Austria,2,0,,,AT&T Stadium,United States
+2026-06-22,Group stage,France,Iraq,3,0,,,Lincoln Financial Field,United States
+2026-06-22,Group stage,Norway,Senegal,3,2,,,MetLife Stadium,United States
+2026-06-22,Group stage,Jordan,Algeria,1,2,,,Levi's Stadium,United States
+2026-06-23,Group stage,Portugal,Uzbekistan,5,0,,,Reliant Stadium,United States
+2026-06-23,Group stage,England,Ghana,0,0,,,Gillette Stadium,United States
+2026-06-23,Group stage,Panama,Croatia,0,1,,,BMO Field,Canada
+2026-06-23,Group stage,Colombia,DR Congo,1,0,,,Estadio Akron,Mexico
+2026-06-24,Group stage,Switzerland,Canada,2,1,,,BC Place Stadium,Canada
+2026-06-24,Group stage,Bosnia and Herzegovina,Qatar,3,1,,,Lumen Field,United States
+2026-06-24,Group stage,Scotland,Brazil,0,3,,,Hard Rock Stadium,United States
+2026-06-24,Group stage,Morocco,Haiti,4,2,,,Mercedes-Benz Stadium,United States
+2026-06-24,Group stage,South Africa,South Korea,1,0,,,Estadio BBVA,Mexico
+2026-06-24,Group stage,Czech Republic,Mexico,0,3,,,Estadio Banorte,Mexico
+2026-06-25,Group stage,Curaçao,Ivory Coast,0,2,,,Lincoln Financial Field,United States
+2026-06-25,Group stage,Ecuador,Germany,2,1,,,MetLife Stadium,United States
+2026-06-25,Group stage,Tunisia,Netherlands,1,3,,,GEHA Field at Arrowhead Stadium,United States
+2026-06-25,Group stage,Japan,Sweden,1,1,,,AT&T Stadium,United States
+2026-06-25,Group stage,Turkey,United States,3,2,,,SoFi Stadium,United States
+2026-06-25,Group stage,Paraguay,Australia,0,0,,,Levi's Stadium,United States
+2026-06-26,Group stage,Norway,France,1,4,,,Gillette Stadium,United States
+2026-06-26,Group stage,Senegal,Iraq,5,0,,,BMO Field,Canada
+2026-06-26,Group stage,Uruguay,Spain,0,1,,,Estadio Akron,Mexico
+2026-06-26,Group stage,Cape Verde,Saudi Arabia,0,0,,,Reliant Stadium,United States
+2026-06-26,Group stage,Egypt,Iran,1,1,,,Lumen Field,United States
+2026-06-26,Group stage,New Zealand,Belgium,1,5,,,BC Place Stadium,Canada
+2026-06-27,Group stage,Croatia,Ghana,2,1,,,Lincoln Financial Field,United States
+2026-06-27,Group stage,Panama,England,0,2,,,MetLife Stadium,United States
+2026-06-27,Group stage,DR Congo,Uzbekistan,3,1,,,Mercedes-Benz Stadium,United States
+2026-06-27,Group stage,Colombia,Portugal,0,0,,,Hard Rock Stadium,United States
+2026-06-27,Group stage,Jordan,Argentina,1,3,,,AT&T Stadium,United States
+2026-06-27,Group stage,Algeria,Austria,3,3,,,GEHA Field at Arrowhead Stadium,United States
+2026-06-28,Round of 32,South Africa,Canada,0,1,,,SoFi Stadium,United States
+2026-06-29,Round of 32,Brazil,Japan,2,1,,,Reliant Stadium,United States
+2026-06-29,Round of 32,Germany,Paraguay,1,1,3.0,4.0,Gillette Stadium,United States
+2026-06-29,Round of 32,Netherlands,Morocco,1,1,2.0,3.0,Estadio BBVA,Mexico
+2026-06-30,Round of 32,Ivory Coast,Norway,1,2,,,AT&T Stadium,United States
+2026-06-30,Round of 32,France,Sweden,3,0,,,MetLife Stadium,United States
+2026-06-30,Round of 32,Mexico,Ecuador,2,0,,,Estadio Banorte,Mexico
+2026-07-01,Round of 32,England,DR Congo,2,1,,,Mercedes-Benz Stadium,United States
+2026-07-01,Round of 32,Belgium,Senegal,3,2,,,Lumen Field,United States
+2026-07-01,Round of 32,United States,Bosnia and Herzegovina,2,0,,,Levi's Stadium,United States
+2026-07-02,Round of 32,Spain,Austria,3,0,,,SoFi Stadium,United States
+2026-07-02,Round of 32,Portugal,Croatia,2,1,,,BMO Field,Canada
+2026-07-02,Round of 32,Switzerland,Algeria,2,0,,,BC Place Stadium,Canada
+2026-07-03,Round of 32,Australia,Egypt,1,1,2.0,4.0,AT&T Stadium,United States
+2026-07-03,Round of 32,Argentina,Cape Verde,3,2,,,Hard Rock Stadium,United States
+2026-07-03,Round of 32,Colombia,Ghana,1,0,,,GEHA Field at Arrowhead Stadium,United States
+2026-07-04,Round of 16,Canada,Morocco,0,3,,,Reliant Stadium,United States
+2026-07-04,Round of 16,Paraguay,France,0,1,,,Lincoln Financial Field,United States
+2026-07-05,Round of 16,Brazil,Norway,1,2,,,MetLife Stadium,United States
+2026-07-05,Round of 16,Mexico,England,2,3,,,Estadio Banorte,Mexico
+2026-07-06,Round of 16,Portugal,Spain,0,1,,,AT&T Stadium,United States
+2026-07-06,Round of 16,United States,Belgium,1,4,,,Lumen Field,United States
+2026-07-07,Round of 16,Argentina,Egypt,3,2,,,Mercedes-Benz Stadium,United States
+2026-07-07,Round of 16,Switzerland,Colombia,0,0,4.0,3.0,BC Place Stadium,Canada
+2026-07-09,Quarter-finals,France,Morocco,2,0,,,Gillette Stadium,United States
+2026-07-10,Quarter-finals,Spain,Belgium,2,1,,,SoFi Stadium,United States
+2026-07-11,Quarter-finals,Norway,England,1,2,,,Hard Rock Stadium,United States
+2026-07-11,Quarter-finals,Argentina,Switzerland,3,1,,,GEHA Field at Arrowhead Stadium,United States
+2026-07-14,Semi-finals,France,Spain,0,2,,,AT&T Stadium,United States
+2026-07-15,Semi-finals,England,Argentina,1,2,,,Mercedes-Benz Stadium,United States
+2026-07-18,Third-place match,France,England,4,6,,,Hard Rock Stadium,United States
+2026-07-19,Final,Spain,Argentina,1,0,,,MetLife Stadium,United States
