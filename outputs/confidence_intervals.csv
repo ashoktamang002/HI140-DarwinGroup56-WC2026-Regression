@@ -1,0 +1,3 @@
+quantity,n,estimate,ci_low,ci_upp
+Higher-ranked team's mean winning margin (goals),104,1.2692307692307692,0.953224704112582,1.5852368343489562
+Proportion of matches won by the higher-ranked team,104,0.6538461538461539,0.562412981375944,0.7452793263163637

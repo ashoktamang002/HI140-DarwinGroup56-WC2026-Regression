@@ -1,0 +1,6 @@
+question,H0,H1,test,statistic,p,decision
+Higher-ranked team's winning margin,mean margin = 0,mean margin > 0,one-sample t-test,t(103) = 7.87,1.8368951433583993e-12,Reject H0
+FIFA points gap vs goal difference,ρ = 0,ρ ≠ 0,Pearson correlation test,r = 0.65,1.180978951091606e-13,Reject H0
+Goals: group vs knockout,μ_group = μ_knockout,μ_group ≠ μ_knockout,Welch two-sample t-test,t = 0.20,0.838480045274522,Fail to reject H0
+Goals: host at home vs others,μ_host = μ_other,μ_host ≠ μ_other,Welch two-sample t-test,t = 1.97,0.07014030662327647,Fail to reject H0
+Team goals follow a Poisson distribution,goals ~ Poisson,goals not Poisson,χ² goodness-of-fit,χ²(3) = 6.25,0.09994661100104829,Fail to reject H0
