@@ -1,0 +1,9 @@
+# Exact versions used to produce the report's numbers and figures (Python 3.13).
+# Other versions work, but may change some results in the 3rd decimal place.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+openpyxl==3.1.5
