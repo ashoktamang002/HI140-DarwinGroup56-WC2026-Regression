@@ -1,0 +1,212 @@
+team,rank,points
+Argentina,1,1877.27
+Spain,2,1874.71
+France,3,1870.7
+England,4,1828.02
+Portugal,5,1767.85
+Brazil,6,1765.86
+Morocco,7,1755.1
+Netherlands,8,1753.57
+Belgium,9,1742.24
+Germany,10,1735.77
+Croatia,11,1714.87
+Italy,12,1704.73
+Colombia,13,1698.35
+Mexico,14,1687.48
+Senegal,15,1684.07
+Uruguay,16,1673.07
+USA,17,1671.23
+Japan,18,1661.58
+Switzerland,19,1650.06
+IR Iran,20,1619.58
+Denmark,21,1619.47
+Türkiye,22,1605.73
+Ecuador,23,1598.52
+Austria,24,1597.4
+Korea Republic,25,1591.63
+Nigeria,26,1585.02
+Australia,27,1579.34
+Algeria,28,1571.03
+Egypt,29,1562.37
+Canada,30,1559.48
+Norway,31,1557.44
+Ukraine,32,1549.29
+Côte d'Ivoire,33,1540.87
+Panama,34,1539.16
+Russia,35,1529.6
+Poland,36,1526.18
+Wales,37,1516.95
+Sweden,38,1509.79
+Hungary,39,1506.39
+Czechia,40,1505.74
+Paraguay,41,1505.35
+Scotland,42,1503.34
+Serbia,43,1502.13
+Cameroon,44,1481.24
+Tunisia,45,1476.41
+Congo DR,46,1474.43
+Slovakia,47,1473.66
+Greece,48,1473.19
+Venezuela,49,1469.18
+Uzbekistan,50,1458.73
+Chile,51,1458.2
+Peru,52,1457.69
+Costa Rica,53,1456.03
+Romania,54,1455.89
+Mali,55,1455.59
+Qatar,56,1450.31
+Iraq,57,1446.28
+Republic of Ireland,58,1441.1
+Slovenia,59,1441.09
+South Africa,60,1428.38
+Saudi Arabia,61,1423.88
+Burkina Faso,62,1406.99
+Jordan,63,1387.74
+Bosnia and Herzegovina,64,1387.22
+Honduras,65,1378.97
+Albania,66,1376.03
+Cabo Verde,67,1371.11
+United Arab Emirates,68,1370.47
+North Macedonia,69,1369.16
+Northern Ireland,70,1365.3
+Jamaica,71,1357.84
+Georgia,72,1355.26
+Ghana,73,1346.88
+Iceland,74,1342.77
+Finland,75,1341.92
+Israel,76,1333.9
+Bolivia,77,1326
+Kosovo,78,1319.12
+Oman,79,1306.9
+Montenegro,80,1301.98
+Guinea,81,1295.6
+Curaçao,82,1294.77
+Haiti,83,1293.1
+Syria,84,1283.05
+New Zealand,85,1275.58
+Gabon,86,1272.51
+Bulgaria,87,1271.68
+Angola,88,1265.58
+Uganda,89,1264.09
+Zambia,90,1255.82
+China PR,91,1254.81
+Bahrain,92,1254.41
+Benin,93,1252.17
+Thailand,94,1250.8
+Palestine,95,1243.71
+Belarus,96,1242.88
+Guatemala,97,1238.74
+Luxembourg,98,1232.82
+Vietnam,99,1225.68
+El Salvador,100,1225.34
+Tajikistan,101,1224.19
+Trinidad and Tobago,102,1219.59
+Mozambique,103,1218.62
+Madagascar,104,1202.69
+Equatorial Guinea,105,1195.2
+Kyrgyz Republic,106,1192.16
+Armenia,107,1189.63
+Comoros,108,1187.91
+Kenya,109,1185.08
+Libya,110,1182.08
+Kazakhstan,111,1180.78
+Tanzania,112,1180.27
+Mauritania,113,1176.68
+Niger,114,1175.33
+Lebanon,115,1172.22
+The Gambia,116,1159.64
+Sudan,117,1157.22
+Indonesia,118,1157.14
+Togo,119,1152.76
+DPR Korea,120,1151.05
+Namibia,121,1148.84
+Sierra Leone,122,1147.56
+Faroe Islands,123,1136.59
+Cyprus,124,1133.25
+Suriname,125,1132.43
+Azerbaijan,126,1132
+Estonia,127,1130.64
+Rwanda,128,1126.62
+Malawi,129,1122.05
+Zimbabwe,130,1119.78
+Nicaragua,131,1114.63
+Guinea-Bissau,132,1108.38
+Kuwait,133,1106.47
+Congo,134,1105.96
+Philippines,135,1100.95
+Malaysia,136,1086.22
+Latvia,137,1085.66
+India,138,1084.93
+Central African Republic,139,1080.82
+Liberia,140,1080.44
+Turkmenistan,141,1078.65
+Burundi,142,1078.01
+Ethiopia,143,1077.52
+Dominican Republic,144,1076.5
+Yemen,145,1065.24
+Lesotho,146,1064.29
+Botswana,147,1063.63
+Singapore,148,1057.95
+Lithuania,149,1056.85
+Guyana,150,1049.32
+New Caledonia,151,1036.95
+St. Kitts and Nevis,152,1036.33
+Solomon Islands,153,1031.89
+Puerto Rico,154,1024.3
+Fiji,155,1024.17
+Hong Kong,156,1024.16
+Tahiti,157,1019.04
+Myanmar,158,1010.91
+Moldova,159,1008.24
+Vanuatu,160,1002.53
+Malta,161,992.79
+Antigua and Barbuda,162,986.58
+Grenada,163,981.82
+Cuba,164,981.42
+Eswatini,165,979.01
+St. Lucia,166,976.71
+Bermuda,167,975.05
+Papua New Guinea,168,974.9
+South Sudan,169,970.94
+St. Vincent / Grenadines,170,968.27
+Afghanistan,171,968.07
+Andorra,172,946.43
+Maldives,173,943.92
+Chinese Taipei,174,923.78
+Cambodia,175,922.32
+Montserrat,176,916.75
+Nepal,177,914.54
+Mauritius,178,911.49
+Barbados,179,909.89
+Belize,180,907
+Bangladesh,181,902.93
+Dominica,182,897.69
+Chad,183,896.85
+Eritrea,184,887.06
+Laos,185,885.03
+Cook Islands,186,877.53
+Sri Lanka,187,876.86
+Samoa,188,876.41
+Aruba,189,875.61
+Mongolia,190,874.47
+American Samoa,191,871.61
+Bhutan,192,870.81
+Macau,193,858.03
+Brunei,194,857.73
+São Tomé and Príncipe,195,855.44
+Djibouti,196,853.58
+Cayman Islands,197,850.06
+Pakistan,198,840.28
+Somalia,199,839.17
+Tonga,200,835.64
+Timor-Leste,201,831
+Gibraltar,202,820.26
+Guam,203,819.54
+Seychelles,204,804.16
+Turks and Caicos Islands,205,803.98
+Liechtenstein,206,797.7
+Bahamas,207,786.82
+US Virgin Islands,208,779.76
+British Virgin Islands,209,777.41
+Anguilla,210,760.25
+San Marino,211,721.2
